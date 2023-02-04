@@ -37,7 +37,6 @@ public class RandStr {
                 addAll(CH_ARR_LIST4);
                 addAll(CH_ARR_LIST6);
             }};
-            randOrderChArrList(ret);
         }
         else if (Objects.equals(str, RandStr.ALL_UPPERCASE) == true) {
             ret = new ArrayList<>() {{
