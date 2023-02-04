@@ -4,8 +4,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Objects;
 public class RandStr {
-    public static final int RAND_INDEX = 1;
-    public static final int NON_RAND_INDEX = 2;
+    public static final int RAND_INDEX = 1; //随机位置
+    public static final int NON_RAND_INDEX = 2; //确定位置
     public static final String MIXED_CASE = "Az"; //大小写
     public static final String ALL_UPPERCASE = "AZ"; //全大写
     public static final String ALL_LOWERCASE = "az"; //全小写
@@ -131,9 +131,9 @@ public class RandStr {
     public static String randStr(int randStrSize, int opt, String str) {
         StringBuilder ret = new StringBuilder();
         if (opt == RandStr.RAND_INDEX) {
-            ArrayList<Character> arrList = getChArrList(str);
+            ArrayList<Character> chArrList = getChArrList(str);
             for (int i = 0; i < randStrSize; i++) {
-                ret.append(arrList.get(secRand.nextInt(arrList.size())));
+                ret.append(chArrList.get(secRand.nextInt(chArrList.size())));
             }
         }
         else if (opt == RandStr.NON_RAND_INDEX) {
@@ -142,9 +142,9 @@ public class RandStr {
                 int curBeginIndex = Integer.parseInt(restrictionArrList.get(i)[0]);
                 int curEndIndex = Integer.parseInt(restrictionArrList.get(i)[1]);
                 String curStr = restrictionArrList.get(i)[2];
-                ArrayList<Character> arrList = getChArrList(curStr);
+                ArrayList<Character> curChArrList = getChArrList(curStr);
                 for (int j = curBeginIndex; j <= curEndIndex; j++) {
-                    ret.append(arrList.get(secRand.nextInt(arrList.size())));
+                    ret.append(curChArrList.get(secRand.nextInt(curChArrList.size())));
                 }
             }
         }
