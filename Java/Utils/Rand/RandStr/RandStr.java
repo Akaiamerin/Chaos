@@ -128,7 +128,7 @@ public class RandStr {
         }
         return ret;
     }
-    public static String RandStr(int randStrSize, int opt, String str) {
+    public static String randStr(int randStrSize, int opt, String str) {
         StringBuilder ret = new StringBuilder();
         if (opt == RandStr.RAND_INDEX) {
             ArrayList<Character> arrList = getChArrList(str);
