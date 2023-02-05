@@ -33,83 +33,61 @@ public class RandStr {
     private static ArrayList<Character> getChArrList(String str) {
         ArrayList<Character> ret = new ArrayList<>();
         if (Objects.equals(str, RandStr.MIXED_CASE) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST4);
-                addAll(CH_ARR_LIST6);
-            }};
+            ret.addAll(CH_ARR_LIST4);
+            ret.addAll(CH_ARR_LIST6);
         }
         else if (Objects.equals(str, RandStr.ALL_UPPERCASE) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST4);
-            }};
+            ret.addAll(CH_ARR_LIST4);
         }
         else if (Objects.equals(str, RandStr.ALL_LOWERCASE) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST6);
-            }};
+            ret.addAll(CH_ARR_LIST6);
         }
         else if (Objects.equals(str, RandStr.DIGIT) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST2);
-            }};
+            ret.addAll(CH_ARR_LIST2);
         }
         else if (Objects.equals(str, RandStr.OTHER) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST1);
-                addAll(CH_ARR_LIST3);
-                addAll(CH_ARR_LIST5);
-                addAll(CH_ARR_LIST7);
-            }};
+            ret.addAll(CH_ARR_LIST1);
+            ret.addAll(CH_ARR_LIST3);
+            ret.addAll(CH_ARR_LIST5);
+            ret.addAll(CH_ARR_LIST7);
         }
         else if (Objects.equals(str, RandStr.MIXED_CASE_AND_DIGIT) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST2);
-                addAll(CH_ARR_LIST4);
-                addAll(CH_ARR_LIST6);
-            }};
+            ret.addAll(CH_ARR_LIST2);
+            ret.addAll(CH_ARR_LIST4);
+            ret.addAll(CH_ARR_LIST6);
         }
         else if (Objects.equals(str, RandStr.ALL_UPPERCASE_AND_DIGIT) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST2);
-                addAll(CH_ARR_LIST4);
-            }};
+            ret.addAll(CH_ARR_LIST2);
+            ret.addAll(CH_ARR_LIST4);
         }
         else if (Objects.equals(str, RandStr.ALL_LOWERCASE_AND_DIGIT) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST2);
-                addAll(CH_ARR_LIST6);
-            }};
+            ret.addAll(CH_ARR_LIST2);
+            ret.addAll(CH_ARR_LIST6);
         }
         else if (Objects.equals(str, RandStr.MIXED_CASE_AND_DIGIT_AND_OTHER) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST1);
-                addAll(CH_ARR_LIST2);
-                addAll(CH_ARR_LIST3);
-                addAll(CH_ARR_LIST4);
-                addAll(CH_ARR_LIST5);
-                addAll(CH_ARR_LIST6);
-                addAll(CH_ARR_LIST7);
-            }};
+            ret.addAll(CH_ARR_LIST1);
+            ret.addAll(CH_ARR_LIST2);
+            ret.addAll(CH_ARR_LIST3);
+            ret.addAll(CH_ARR_LIST4);
+            ret.addAll(CH_ARR_LIST5);
+            ret.addAll(CH_ARR_LIST6);
+            ret.addAll(CH_ARR_LIST7);
         }
         else if (Objects.equals(str, RandStr.ALL_UPPERCASE_AND_DIGIT_AND_OTHER) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST1);
-                addAll(CH_ARR_LIST2);
-                addAll(CH_ARR_LIST3);
-                addAll(CH_ARR_LIST4);
-                addAll(CH_ARR_LIST5);
-                addAll(CH_ARR_LIST7);
-            }};
+            ret.addAll(CH_ARR_LIST1);
+            ret.addAll(CH_ARR_LIST2);
+            ret.addAll(CH_ARR_LIST3);
+            ret.addAll(CH_ARR_LIST4);
+            ret.addAll(CH_ARR_LIST5);
+            ret.addAll(CH_ARR_LIST7);
         }
         else if (Objects.equals(str, RandStr.ALL_LOWERCASE_AND_DIGIT_AND_OTHER) == true) {
-            ret = new ArrayList<>() {{
-                addAll(CH_ARR_LIST1);
-                addAll(CH_ARR_LIST2);
-                addAll(CH_ARR_LIST3);
-                addAll(CH_ARR_LIST5);
-                addAll(CH_ARR_LIST6);
-                addAll(CH_ARR_LIST7);
-            }};
+            ret.addAll(CH_ARR_LIST1);
+            ret.addAll(CH_ARR_LIST2);
+            ret.addAll(CH_ARR_LIST3);
+            ret.addAll(CH_ARR_LIST5);
+            ret.addAll(CH_ARR_LIST6);
+            ret.addAll(CH_ARR_LIST7);
         }
         else {
             ret = null;
