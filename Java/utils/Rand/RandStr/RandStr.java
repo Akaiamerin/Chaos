@@ -129,6 +129,6 @@ public class RandStr {
         else {
             ret = null;
         }
-        return Objects.toString(ret);
+        return String.valueOf(ret);
     }
 }

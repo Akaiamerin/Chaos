@@ -77,18 +77,18 @@ public class RandChinaCountryRegion {
             randOrderArrList(curCityArrList);
             ret.append(curCityArrList.get(secRand.nextInt(curCityArrList.size())));
         }
-        return Objects.toString(ret);
+        return String.valueOf(ret);
     }
     public static String randProvinceCity(String separator) {
         StringBuilder ret = new StringBuilder();
         String curProvince = RandChinaCountryRegion.randProvince();
-        String curCity = RandChinaCountryRegion.randCity(Objects.toString(curProvince));
+        String curCity = RandChinaCountryRegion.randCity(String.valueOf(curProvince));
         if (separator == null || separator.length() == 0) {
             ret.append(curProvince).append(curCity);
         }
         else {
             ret.append(curProvince).append(separator).append(curCity);
         }
-        return Objects.toString(ret);
+        return String.valueOf(ret);
     }
 }
