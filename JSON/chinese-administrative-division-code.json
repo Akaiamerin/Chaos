@@ -2,183 +2,183 @@
     {
         "code": "110000",
         "name": "北京市",
-        "city": [
+        "children": [
             {
                 "code": "110101",
                 "name": "东城区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110102",
                 "name": "西城区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110105",
                 "name": "朝阳区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110106",
                 "name": "丰台区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110107",
                 "name": "石景山区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110108",
                 "name": "海淀区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110109",
                 "name": "门头沟",
-                "district": []
+                "children": []
             },
             {
                 "code": "110111",
                 "name": "房山区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110112",
                 "name": "通州区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110113",
                 "name": "顺义区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110114",
                 "name": "昌平区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110115",
                 "name": "大兴区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110116",
                 "name": "怀柔区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110117",
                 "name": "平谷区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110118",
                 "name": "密云区",
-                "district": []
+                "children": []
             },
             {
                 "code": "110119",
                 "name": "延庆区",
-                "district": []
+                "children": []
             }
         ]
     },
     {
         "code": "120000",
         "name": "天津市",
-        "city": [
+        "children": [
             {
                 "code": "120101",
                 "name": "和平区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120102",
                 "name": "河东区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120103",
                 "name": "河西区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120104",
                 "name": "南开区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120105",
                 "name": "河北区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120106",
                 "name": "红桥区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120110",
                 "name": "东丽区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120111",
                 "name": "西青区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120112",
                 "name": "津南区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120113",
                 "name": "北辰区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120114",
                 "name": "武清区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120115",
                 "name": "宝坻区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120116",
                 "name": "滨海新区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120117",
                 "name": "宁河区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120118",
                 "name": "静海区",
-                "district": []
+                "children": []
             },
             {
                 "code": "120119",
                 "name": "蓟州区",
-                "district": []
+                "children": []
             }
         ]
     },
     {
         "code": "130000",
         "name": "河北省",
-        "city": [
+        "children": [
             {
                 "code": "130100",
                 "name": "石家庄市",
-                "district": [
+                "children": [
                     {
                         "code": "130102",
                         "name": "长安区"
@@ -272,7 +272,7 @@
             {
                 "code": "130200",
                 "name": "唐山市",
-                "district": [
+                "children": [
                     {
                         "code": "130202",
                         "name": "路南区"
@@ -334,7 +334,7 @@
             {
                 "code": "130300",
                 "name": "秦皇岛市",
-                "district": [
+                "children": [
                     {
                         "code": "130302",
                         "name": "海港区"
@@ -368,7 +368,7 @@
             {
                 "code": "130400",
                 "name": "邯郸市",
-                "district": [
+                "children": [
                     {
                         "code": "130402",
                         "name": "邯山区"
@@ -446,7 +446,7 @@
             {
                 "code": "130500",
                 "name": "邢台市",
-                "district": [
+                "children": [
                     {
                         "code": "130502",
                         "name": "襄都区"
@@ -524,7 +524,7 @@
             {
                 "code": "130600",
                 "name": "保定市",
-                "district": [
+                "children": [
                     {
                         "code": "130602",
                         "name": "竞秀区"
@@ -626,7 +626,7 @@
             {
                 "code": "130700",
                 "name": "张家口市",
-                "district": [
+                "children": [
                     {
                         "code": "130702",
                         "name": "桥东区"
@@ -696,7 +696,7 @@
             {
                 "code": "130800",
                 "name": "承德市",
-                "district": [
+                "children": [
                     {
                         "code": "130802",
                         "name": "双桥区"
@@ -746,7 +746,7 @@
             {
                 "code": "130900",
                 "name": "沧州市",
-                "district": [
+                "children": [
                     {
                         "code": "130902",
                         "name": "新华区"
@@ -816,7 +816,7 @@
             {
                 "code": "131000",
                 "name": "廊坊市",
-                "district": [
+                "children": [
                     {
                         "code": "131002",
                         "name": "安次区"
@@ -862,7 +862,7 @@
             {
                 "code": "131100",
                 "name": "衡水市",
-                "district": [
+                "children": [
                     {
                         "code": "131102",
                         "name": "桃城区"
@@ -914,11 +914,11 @@
     {
         "code": "140000",
         "name": "山西省",
-        "city": [
+        "children": [
             {
                 "code": "140100",
                 "name": "太原市",
-                "district": [
+                "children": [
                     {
                         "code": "140105",
                         "name": "小店区"
@@ -964,7 +964,7 @@
             {
                 "code": "140200",
                 "name": "大同市",
-                "district": [
+                "children": [
                     {
                         "code": "140212",
                         "name": "新荣区"
@@ -1010,7 +1010,7 @@
             {
                 "code": "140300",
                 "name": "阳泉市",
-                "district": [
+                "children": [
                     {
                         "code": "140302",
                         "name": "城区"
@@ -1036,7 +1036,7 @@
             {
                 "code": "140400",
                 "name": "长治市",
-                "district": [
+                "children": [
                     {
                         "code": "140403",
                         "name": "潞州区"
@@ -1090,7 +1090,7 @@
             {
                 "code": "140500",
                 "name": "晋城市",
-                "district": [
+                "children": [
                     {
                         "code": "140502",
                         "name": "城区"
@@ -1120,7 +1120,7 @@
             {
                 "code": "140600",
                 "name": "朔州市",
-                "district": [
+                "children": [
                     {
                         "code": "140602",
                         "name": "朔城区"
@@ -1150,7 +1150,7 @@
             {
                 "code": "140700",
                 "name": "晋中市",
-                "district": [
+                "children": [
                     {
                         "code": "140702",
                         "name": "榆次区"
@@ -1200,7 +1200,7 @@
             {
                 "code": "140800",
                 "name": "运城市",
-                "district": [
+                "children": [
                     {
                         "code": "140802",
                         "name": "盐湖区"
@@ -1258,7 +1258,7 @@
             {
                 "code": "140900",
                 "name": "忻州市",
-                "district": [
+                "children": [
                     {
                         "code": "140902",
                         "name": "忻府区"
@@ -1320,7 +1320,7 @@
             {
                 "code": "141000",
                 "name": "临汾市",
-                "district": [
+                "children": [
                     {
                         "code": "141002",
                         "name": "尧都区"
@@ -1394,7 +1394,7 @@
             {
                 "code": "141100",
                 "name": "吕梁市",
-                "district": [
+                "children": [
                     {
                         "code": "141102",
                         "name": "离石区"
@@ -1454,11 +1454,11 @@
     {
         "code": "150000",
         "name": "内蒙古自治区",
-        "city": [
+        "children": [
             {
                 "code": "150100",
                 "name": "呼和浩特市",
-                "district": [
+                "children": [
                     {
                         "code": "150102",
                         "name": "新城区"
@@ -1500,7 +1500,7 @@
             {
                 "code": "150200",
                 "name": "包头市",
-                "district": [
+                "children": [
                     {
                         "code": "150202",
                         "name": "东河区"
@@ -1542,7 +1542,7 @@
             {
                 "code": "150300",
                 "name": "乌海市",
-                "district": [
+                "children": [
                     {
                         "code": "150302",
                         "name": "海勃湾区"
@@ -1560,7 +1560,7 @@
             {
                 "code": "150400",
                 "name": "赤峰市",
-                "district": [
+                "children": [
                     {
                         "code": "150402",
                         "name": "红山区"
@@ -1614,7 +1614,7 @@
             {
                 "code": "150500",
                 "name": "通辽市",
-                "district": [
+                "children": [
                     {
                         "code": "150502",
                         "name": "科尔沁区"
@@ -1652,7 +1652,7 @@
             {
                 "code": "150600",
                 "name": "鄂尔多斯市",
-                "district": [
+                "children": [
                     {
                         "code": "150602",
                         "name": "东胜区"
@@ -1694,7 +1694,7 @@
             {
                 "code": "150700",
                 "name": "呼伦贝尔市",
-                "district": [
+                "children": [
                     {
                         "code": "150702",
                         "name": "海拉尔区"
@@ -1756,7 +1756,7 @@
             {
                 "code": "150800",
                 "name": "巴彦淖尔市",
-                "district": [
+                "children": [
                     {
                         "code": "150802",
                         "name": "临河区"
@@ -1790,7 +1790,7 @@
             {
                 "code": "150900",
                 "name": "乌兰察布市",
-                "district": [
+                "children": [
                     {
                         "code": "150902",
                         "name": "集宁区"
@@ -1840,7 +1840,7 @@
             {
                 "code": "152200",
                 "name": "兴安盟",
-                "district": [
+                "children": [
                     {
                         "code": "152201",
                         "name": "乌兰浩特市"
@@ -1870,7 +1870,7 @@
             {
                 "code": "152500",
                 "name": "锡林郭勒盟",
-                "district": [
+                "children": [
                     {
                         "code": "152501",
                         "name": "二连浩特市"
@@ -1924,7 +1924,7 @@
             {
                 "code": "152900",
                 "name": "阿拉善盟",
-                "district": [
+                "children": [
                     {
                         "code": "152921",
                         "name": "阿拉善左旗"
@@ -1944,11 +1944,11 @@
     {
         "code": "210000",
         "name": "辽宁省",
-        "city": [
+        "children": [
             {
                 "code": "210100",
                 "name": "沈阳市",
-                "district": [
+                "children": [
                     {
                         "code": "210102",
                         "name": "和平区"
@@ -2006,7 +2006,7 @@
             {
                 "code": "210200",
                 "name": "大连市",
-                "district": [
+                "children": [
                     {
                         "code": "210202",
                         "name": "中山区"
@@ -2052,7 +2052,7 @@
             {
                 "code": "210300",
                 "name": "鞍山市",
-                "district": [
+                "children": [
                     {
                         "code": "210302",
                         "name": "铁东区"
@@ -2086,7 +2086,7 @@
             {
                 "code": "210400",
                 "name": "抚顺市",
-                "district": [
+                "children": [
                     {
                         "code": "210402",
                         "name": "新抚区"
@@ -2120,7 +2120,7 @@
             {
                 "code": "210500",
                 "name": "本溪市",
-                "district": [
+                "children": [
                     {
                         "code": "210502",
                         "name": "平山区"
@@ -2150,7 +2150,7 @@
             {
                 "code": "210600",
                 "name": "丹东市",
-                "district": [
+                "children": [
                     {
                         "code": "210602",
                         "name": "元宝区"
@@ -2180,7 +2180,7 @@
             {
                 "code": "210700",
                 "name": "锦州市",
-                "district": [
+                "children": [
                     {
                         "code": "210702",
                         "name": "古塔区"
@@ -2214,7 +2214,7 @@
             {
                 "code": "210800",
                 "name": "营口市",
-                "district": [
+                "children": [
                     {
                         "code": "210802",
                         "name": "站前区"
@@ -2244,7 +2244,7 @@
             {
                 "code": "210900",
                 "name": "阜新市",
-                "district": [
+                "children": [
                     {
                         "code": "210902",
                         "name": "海州区"
@@ -2278,7 +2278,7 @@
             {
                 "code": "211000",
                 "name": "辽阳市",
-                "district": [
+                "children": [
                     {
                         "code": "211002",
                         "name": "白塔区"
@@ -2312,7 +2312,7 @@
             {
                 "code": "211100",
                 "name": "盘锦市",
-                "district": [
+                "children": [
                     {
                         "code": "211102",
                         "name": "双台子区"
@@ -2334,7 +2334,7 @@
             {
                 "code": "211200",
                 "name": "铁岭市",
-                "district": [
+                "children": [
                     {
                         "code": "211202",
                         "name": "银州区"
@@ -2368,7 +2368,7 @@
             {
                 "code": "211300",
                 "name": "朝阳市",
-                "district": [
+                "children": [
                     {
                         "code": "211302",
                         "name": "双塔区"
@@ -2402,7 +2402,7 @@
             {
                 "code": "211400",
                 "name": "葫芦岛市",
-                "district": [
+                "children": [
                     {
                         "code": "211402",
                         "name": "连山区"
@@ -2434,11 +2434,11 @@
     {
         "code": "220000",
         "name": "吉林省",
-        "city": [
+        "children": [
             {
                 "code": "220100",
                 "name": "长春市",
-                "district": [
+                "children": [
                     {
                         "code": "220102",
                         "name": "南关区"
@@ -2488,7 +2488,7 @@
             {
                 "code": "220200",
                 "name": "吉林市",
-                "district": [
+                "children": [
                     {
                         "code": "220202",
                         "name": "昌邑区"
@@ -2530,7 +2530,7 @@
             {
                 "code": "220300",
                 "name": "四平市",
-                "district": [
+                "children": [
                     {
                         "code": "220302",
                         "name": "铁西区"
@@ -2556,7 +2556,7 @@
             {
                 "code": "220400",
                 "name": "辽源市",
-                "district": [
+                "children": [
                     {
                         "code": "220402",
                         "name": "龙山区"
@@ -2578,7 +2578,7 @@
             {
                 "code": "220500",
                 "name": "通化市",
-                "district": [
+                "children": [
                     {
                         "code": "220502",
                         "name": "东昌区"
@@ -2612,7 +2612,7 @@
             {
                 "code": "220600",
                 "name": "白山市",
-                "district": [
+                "children": [
                     {
                         "code": "220602",
                         "name": "浑江区"
@@ -2642,7 +2642,7 @@
             {
                 "code": "220700",
                 "name": "松原市",
-                "district": [
+                "children": [
                     {
                         "code": "220702",
                         "name": "宁江区"
@@ -2668,7 +2668,7 @@
             {
                 "code": "220800",
                 "name": "白城市",
-                "district": [
+                "children": [
                     {
                         "code": "220802",
                         "name": "洮北区"
@@ -2694,7 +2694,7 @@
             {
                 "code": "222400",
                 "name": "延边朝鲜族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "222401",
                         "name": "延吉市"
@@ -2734,11 +2734,11 @@
     {
         "code": "230000",
         "name": "黑龙江省",
-        "city": [
+        "children": [
             {
                 "code": "230100",
                 "name": "哈尔滨市",
-                "district": [
+                "children": [
                     {
                         "code": "230102",
                         "name": "道里区"
@@ -2816,7 +2816,7 @@
             {
                 "code": "230200",
                 "name": "齐齐哈尔市",
-                "district": [
+                "children": [
                     {
                         "code": "230202",
                         "name": "龙沙区"
@@ -2886,7 +2886,7 @@
             {
                 "code": "230300",
                 "name": "鸡西市",
-                "district": [
+                "children": [
                     {
                         "code": "230302",
                         "name": "鸡冠区"
@@ -2928,7 +2928,7 @@
             {
                 "code": "230400",
                 "name": "鹤岗市",
-                "district": [
+                "children": [
                     {
                         "code": "230402",
                         "name": "向阳区"
@@ -2966,7 +2966,7 @@
             {
                 "code": "230500",
                 "name": "双鸭山市",
-                "district": [
+                "children": [
                     {
                         "code": "230502",
                         "name": "尖山区"
@@ -3004,7 +3004,7 @@
             {
                 "code": "230600",
                 "name": "大庆市",
-                "district": [
+                "children": [
                     {
                         "code": "230602",
                         "name": "萨尔图区"
@@ -3046,7 +3046,7 @@
             {
                 "code": "230700",
                 "name": "伊春市",
-                "district": [
+                "children": [
                     {
                         "code": "230717",
                         "name": "伊美区"
@@ -3092,7 +3092,7 @@
             {
                 "code": "230800",
                 "name": "佳木斯市",
-                "district": [
+                "children": [
                     {
                         "code": "230803",
                         "name": "向阳区"
@@ -3138,7 +3138,7 @@
             {
                 "code": "230900",
                 "name": "七台河市",
-                "district": [
+                "children": [
                     {
                         "code": "230902",
                         "name": "新兴区"
@@ -3160,7 +3160,7 @@
             {
                 "code": "231000",
                 "name": "牡丹江市",
-                "district": [
+                "children": [
                     {
                         "code": "231002",
                         "name": "东安区"
@@ -3206,7 +3206,7 @@
             {
                 "code": "231100",
                 "name": "黑河市",
-                "district": [
+                "children": [
                     {
                         "code": "231102",
                         "name": "爱辉区"
@@ -3236,7 +3236,7 @@
             {
                 "code": "231200",
                 "name": "绥化市",
-                "district": [
+                "children": [
                     {
                         "code": "231202",
                         "name": "北林区"
@@ -3282,7 +3282,7 @@
             {
                 "code": "232700",
                 "name": "大兴安岭地区",
-                "district": [
+                "children": [
                     {
                         "code": "232701",
                         "name": "漠河市"
@@ -3302,97 +3302,97 @@
     {
         "code": "310000",
         "name": "上海市",
-        "city": [
+        "children": [
             {
                 "code": "310101",
                 "name": "黄浦区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310104",
                 "name": "徐汇区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310105",
                 "name": "长宁区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310106",
                 "name": "静安区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310107",
                 "name": "普陀区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310109",
                 "name": "虹口区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310110",
                 "name": "杨浦区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310112",
                 "name": "闵行区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310113",
                 "name": "宝山区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310114",
                 "name": "嘉定区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310115",
                 "name": "浦东新区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310116",
                 "name": "金山区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310117",
                 "name": "松江区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310118",
                 "name": "青浦区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310120",
                 "name": "奉贤区",
-                "district": []
+                "children": []
             },
             {
                 "code": "310151",
                 "name": "崇明区",
-                "district": []
+                "children": []
             }
         ]
     },
     {
         "code": "320000",
         "name": "江苏省",
-        "city": [
+        "children": [
             {
                 "code": "320100",
                 "name": "南京市",
-                "district": [
+                "children": [
                     {
                         "code": "320102",
                         "name": "玄武区"
@@ -3442,7 +3442,7 @@
             {
                 "code": "320200",
                 "name": "无锡市",
-                "district": [
+                "children": [
                     {
                         "code": "320205",
                         "name": "锡山区"
@@ -3476,7 +3476,7 @@
             {
                 "code": "320300",
                 "name": "徐州市",
-                "district": [
+                "children": [
                     {
                         "code": "320302",
                         "name": "鼓楼区"
@@ -3522,7 +3522,7 @@
             {
                 "code": "320400",
                 "name": "常州市",
-                "district": [
+                "children": [
                     {
                         "code": "320402",
                         "name": "天宁区"
@@ -3552,7 +3552,7 @@
             {
                 "code": "320500",
                 "name": "苏州市",
-                "district": [
+                "children": [
                     {
                         "code": "320505",
                         "name": "虎丘区"
@@ -3594,7 +3594,7 @@
             {
                 "code": "320600",
                 "name": "南通市",
-                "district": [
+                "children": [
                     {
                         "code": "320612",
                         "name": "通州区"
@@ -3628,7 +3628,7 @@
             {
                 "code": "320700",
                 "name": "连云港市",
-                "district": [
+                "children": [
                     {
                         "code": "320703",
                         "name": "连云区"
@@ -3658,7 +3658,7 @@
             {
                 "code": "320800",
                 "name": "淮安市",
-                "district": [
+                "children": [
                     {
                         "code": "320803",
                         "name": "淮安区"
@@ -3692,7 +3692,7 @@
             {
                 "code": "320900",
                 "name": "盐城市",
-                "district": [
+                "children": [
                     {
                         "code": "320902",
                         "name": "亭湖区"
@@ -3734,7 +3734,7 @@
             {
                 "code": "321000",
                 "name": "扬州市",
-                "district": [
+                "children": [
                     {
                         "code": "321002",
                         "name": "广陵区"
@@ -3764,7 +3764,7 @@
             {
                 "code": "321100",
                 "name": "镇江市",
-                "district": [
+                "children": [
                     {
                         "code": "321102",
                         "name": "京口区"
@@ -3794,7 +3794,7 @@
             {
                 "code": "321200",
                 "name": "泰州市",
-                "district": [
+                "children": [
                     {
                         "code": "321202",
                         "name": "海陵区"
@@ -3824,7 +3824,7 @@
             {
                 "code": "321300",
                 "name": "宿迁市",
-                "district": [
+                "children": [
                     {
                         "code": "321302",
                         "name": "宿城区"
@@ -3852,11 +3852,11 @@
     {
         "code": "330000",
         "name": "浙江省",
-        "city": [
+        "children": [
             {
                 "code": "330100",
                 "name": "杭州市",
-                "district": [
+                "children": [
                     {
                         "code": "330102",
                         "name": "上城区"
@@ -3914,7 +3914,7 @@
             {
                 "code": "330200",
                 "name": "宁波市",
-                "district": [
+                "children": [
                     {
                         "code": "330203",
                         "name": "海曙区"
@@ -3960,7 +3960,7 @@
             {
                 "code": "330300",
                 "name": "温州市",
-                "district": [
+                "children": [
                     {
                         "code": "330302",
                         "name": "鹿城区"
@@ -4014,7 +4014,7 @@
             {
                 "code": "330400",
                 "name": "嘉兴市",
-                "district": [
+                "children": [
                     {
                         "code": "330402",
                         "name": "南湖区"
@@ -4048,7 +4048,7 @@
             {
                 "code": "330500",
                 "name": "湖州市",
-                "district": [
+                "children": [
                     {
                         "code": "330502",
                         "name": "吴兴区"
@@ -4074,7 +4074,7 @@
             {
                 "code": "330600",
                 "name": "绍兴市",
-                "district": [
+                "children": [
                     {
                         "code": "330602",
                         "name": "越城区"
@@ -4104,7 +4104,7 @@
             {
                 "code": "330700",
                 "name": "金华市",
-                "district": [
+                "children": [
                     {
                         "code": "330702",
                         "name": "婺城区"
@@ -4146,7 +4146,7 @@
             {
                 "code": "330800",
                 "name": "衢州市",
-                "district": [
+                "children": [
                     {
                         "code": "330802",
                         "name": "柯城区"
@@ -4176,7 +4176,7 @@
             {
                 "code": "330900",
                 "name": "舟山市",
-                "district": [
+                "children": [
                     {
                         "code": "330902",
                         "name": "定海区"
@@ -4198,7 +4198,7 @@
             {
                 "code": "331000",
                 "name": "台州市",
-                "district": [
+                "children": [
                     {
                         "code": "331002",
                         "name": "椒江区"
@@ -4240,7 +4240,7 @@
             {
                 "code": "331100",
                 "name": "丽水市",
-                "district": [
+                "children": [
                     {
                         "code": "331102",
                         "name": "莲都区"
@@ -4284,11 +4284,11 @@
     {
         "code": "340000",
         "name": "安徽省",
-        "city": [
+        "children": [
             {
                 "code": "340100",
                 "name": "合肥市",
-                "district": [
+                "children": [
                     {
                         "code": "340102",
                         "name": "瑶海区"
@@ -4330,7 +4330,7 @@
             {
                 "code": "340200",
                 "name": "芜湖市",
-                "district": [
+                "children": [
                     {
                         "code": "340202",
                         "name": "镜湖区"
@@ -4364,7 +4364,7 @@
             {
                 "code": "340300",
                 "name": "蚌埠市",
-                "district": [
+                "children": [
                     {
                         "code": "340302",
                         "name": "龙子湖区"
@@ -4398,7 +4398,7 @@
             {
                 "code": "340400",
                 "name": "淮南市",
-                "district": [
+                "children": [
                     {
                         "code": "340402",
                         "name": "大通区"
@@ -4432,7 +4432,7 @@
             {
                 "code": "340500",
                 "name": "马鞍山市",
-                "district": [
+                "children": [
                     {
                         "code": "340503",
                         "name": "花山区"
@@ -4462,7 +4462,7 @@
             {
                 "code": "340600",
                 "name": "淮北市",
-                "district": [
+                "children": [
                     {
                         "code": "340602",
                         "name": "杜集区"
@@ -4484,7 +4484,7 @@
             {
                 "code": "340700",
                 "name": "铜陵市",
-                "district": [
+                "children": [
                     {
                         "code": "340705",
                         "name": "铜官区"
@@ -4506,7 +4506,7 @@
             {
                 "code": "340800",
                 "name": "安庆市",
-                "district": [
+                "children": [
                     {
                         "code": "340802",
                         "name": "迎江区"
@@ -4552,7 +4552,7 @@
             {
                 "code": "341000",
                 "name": "黄山市",
-                "district": [
+                "children": [
                     {
                         "code": "341002",
                         "name": "屯溪区"
@@ -4586,7 +4586,7 @@
             {
                 "code": "341100",
                 "name": "滁州市",
-                "district": [
+                "children": [
                     {
                         "code": "341102",
                         "name": "琅琊区"
@@ -4624,7 +4624,7 @@
             {
                 "code": "341200",
                 "name": "阜阳市",
-                "district": [
+                "children": [
                     {
                         "code": "341202",
                         "name": "颍州区"
@@ -4662,7 +4662,7 @@
             {
                 "code": "341300",
                 "name": "宿州市",
-                "district": [
+                "children": [
                     {
                         "code": "341302",
                         "name": "埇桥区"
@@ -4688,7 +4688,7 @@
             {
                 "code": "341500",
                 "name": "六安市",
-                "district": [
+                "children": [
                     {
                         "code": "341502",
                         "name": "金安区"
@@ -4722,7 +4722,7 @@
             {
                 "code": "341600",
                 "name": "亳州市",
-                "district": [
+                "children": [
                     {
                         "code": "341602",
                         "name": "谯城区"
@@ -4744,7 +4744,7 @@
             {
                 "code": "341700",
                 "name": "池州市",
-                "district": [
+                "children": [
                     {
                         "code": "341702",
                         "name": "贵池区"
@@ -4766,7 +4766,7 @@
             {
                 "code": "341800",
                 "name": "宣城市",
-                "district": [
+                "children": [
                     {
                         "code": "341802",
                         "name": "宣州区"
@@ -4802,11 +4802,11 @@
     {
         "code": "350000",
         "name": "福建省",
-        "city": [
+        "children": [
             {
                 "code": "350100",
                 "name": "福州市",
-                "district": [
+                "children": [
                     {
                         "code": "350102",
                         "name": "鼓楼区"
@@ -4864,7 +4864,7 @@
             {
                 "code": "350200",
                 "name": "厦门市",
-                "district": [
+                "children": [
                     {
                         "code": "350203",
                         "name": "思明区"
@@ -4894,7 +4894,7 @@
             {
                 "code": "350300",
                 "name": "莆田市",
-                "district": [
+                "children": [
                     {
                         "code": "350302",
                         "name": "城厢区"
@@ -4920,7 +4920,7 @@
             {
                 "code": "350400",
                 "name": "三明市",
-                "district": [
+                "children": [
                     {
                         "code": "350402",
                         "name": "梅列区"
@@ -4974,7 +4974,7 @@
             {
                 "code": "350500",
                 "name": "泉州市",
-                "district": [
+                "children": [
                     {
                         "code": "350502",
                         "name": "鲤城区"
@@ -5028,7 +5028,7 @@
             {
                 "code": "350600",
                 "name": "漳州市",
-                "district": [
+                "children": [
                     {
                         "code": "350602",
                         "name": "芗城区"
@@ -5078,7 +5078,7 @@
             {
                 "code": "350700",
                 "name": "南平市",
-                "district": [
+                "children": [
                     {
                         "code": "350702",
                         "name": "延平区"
@@ -5124,7 +5124,7 @@
             {
                 "code": "350800",
                 "name": "龙岩市",
-                "district": [
+                "children": [
                     {
                         "code": "350802",
                         "name": "新罗区"
@@ -5158,7 +5158,7 @@
             {
                 "code": "350900",
                 "name": "宁德市",
-                "district": [
+                "children": [
                     {
                         "code": "350902",
                         "name": "蕉城区"
@@ -5202,11 +5202,11 @@
     {
         "code": "360000",
         "name": "江西省",
-        "city": [
+        "children": [
             {
                 "code": "360100",
                 "name": "南昌市",
-                "district": [
+                "children": [
                     {
                         "code": "360102",
                         "name": "东湖区"
@@ -5248,7 +5248,7 @@
             {
                 "code": "360200",
                 "name": "景德镇市",
-                "district": [
+                "children": [
                     {
                         "code": "360202",
                         "name": "昌江区"
@@ -5270,7 +5270,7 @@
             {
                 "code": "360300",
                 "name": "萍乡市",
-                "district": [
+                "children": [
                     {
                         "code": "360302",
                         "name": "安源区"
@@ -5296,7 +5296,7 @@
             {
                 "code": "360400",
                 "name": "九江市",
-                "district": [
+                "children": [
                     {
                         "code": "360402",
                         "name": "濂溪区"
@@ -5354,7 +5354,7 @@
             {
                 "code": "360500",
                 "name": "新余市",
-                "district": [
+                "children": [
                     {
                         "code": "360502",
                         "name": "渝水区"
@@ -5368,7 +5368,7 @@
             {
                 "code": "360600",
                 "name": "鹰潭市",
-                "district": [
+                "children": [
                     {
                         "code": "360602",
                         "name": "月湖区"
@@ -5386,7 +5386,7 @@
             {
                 "code": "360700",
                 "name": "赣州市",
-                "district": [
+                "children": [
                     {
                         "code": "360702",
                         "name": "章贡区"
@@ -5464,7 +5464,7 @@
             {
                 "code": "360800",
                 "name": "吉安市",
-                "district": [
+                "children": [
                     {
                         "code": "360802",
                         "name": "吉州区"
@@ -5522,7 +5522,7 @@
             {
                 "code": "360900",
                 "name": "宜春市",
-                "district": [
+                "children": [
                     {
                         "code": "360902",
                         "name": "袁州区"
@@ -5568,7 +5568,7 @@
             {
                 "code": "361000",
                 "name": "抚州市",
-                "district": [
+                "children": [
                     {
                         "code": "361002",
                         "name": "临川区"
@@ -5618,7 +5618,7 @@
             {
                 "code": "361100",
                 "name": "上饶市",
-                "district": [
+                "children": [
                     {
                         "code": "361102",
                         "name": "信州区"
@@ -5674,11 +5674,11 @@
     {
         "code": "370000",
         "name": "山东省",
-        "city": [
+        "children": [
             {
                 "code": "370100",
                 "name": "济南市",
-                "district": [
+                "children": [
                     {
                         "code": "370102",
                         "name": "历下区"
@@ -5732,7 +5732,7 @@
             {
                 "code": "370200",
                 "name": "青岛市",
-                "district": [
+                "children": [
                     {
                         "code": "370202",
                         "name": "市南区"
@@ -5778,7 +5778,7 @@
             {
                 "code": "370300",
                 "name": "淄博市",
-                "district": [
+                "children": [
                     {
                         "code": "370302",
                         "name": "淄川区"
@@ -5816,7 +5816,7 @@
             {
                 "code": "370400",
                 "name": "枣庄市",
-                "district": [
+                "children": [
                     {
                         "code": "370402",
                         "name": "市中区"
@@ -5846,7 +5846,7 @@
             {
                 "code": "370500",
                 "name": "东营市",
-                "district": [
+                "children": [
                     {
                         "code": "370502",
                         "name": "东营区"
@@ -5872,7 +5872,7 @@
             {
                 "code": "370600",
                 "name": "烟台市",
-                "district": [
+                "children": [
                     {
                         "code": "370602",
                         "name": "芝罘区"
@@ -5922,7 +5922,7 @@
             {
                 "code": "370700",
                 "name": "潍坊市",
-                "district": [
+                "children": [
                     {
                         "code": "370702",
                         "name": "潍城区"
@@ -5976,7 +5976,7 @@
             {
                 "code": "370800",
                 "name": "济宁市",
-                "district": [
+                "children": [
                     {
                         "code": "370811",
                         "name": "任城区"
@@ -6026,7 +6026,7 @@
             {
                 "code": "370900",
                 "name": "泰安市",
-                "district": [
+                "children": [
                     {
                         "code": "370902",
                         "name": "泰山区"
@@ -6056,7 +6056,7 @@
             {
                 "code": "371000",
                 "name": "威海市",
-                "district": [
+                "children": [
                     {
                         "code": "371002",
                         "name": "环翠区"
@@ -6078,7 +6078,7 @@
             {
                 "code": "371100",
                 "name": "日照市",
-                "district": [
+                "children": [
                     {
                         "code": "371102",
                         "name": "东港区"
@@ -6100,7 +6100,7 @@
             {
                 "code": "371300",
                 "name": "临沂市",
-                "district": [
+                "children": [
                     {
                         "code": "371302",
                         "name": "兰山区"
@@ -6154,7 +6154,7 @@
             {
                 "code": "371400",
                 "name": "德州市",
-                "district": [
+                "children": [
                     {
                         "code": "371402",
                         "name": "德城区"
@@ -6204,7 +6204,7 @@
             {
                 "code": "371500",
                 "name": "聊城市",
-                "district": [
+                "children": [
                     {
                         "code": "371502",
                         "name": "东昌府区"
@@ -6242,7 +6242,7 @@
             {
                 "code": "371600",
                 "name": "滨州市",
-                "district": [
+                "children": [
                     {
                         "code": "371602",
                         "name": "滨城区"
@@ -6276,7 +6276,7 @@
             {
                 "code": "371700",
                 "name": "菏泽市",
-                "district": [
+                "children": [
                     {
                         "code": "371702",
                         "name": "牡丹区"
@@ -6320,11 +6320,11 @@
     {
         "code": "410000",
         "name": "河南省",
-        "city": [
+        "children": [
             {
                 "code": "410100",
                 "name": "郑州市",
-                "district": [
+                "children": [
                     {
                         "code": "410102",
                         "name": "中原区"
@@ -6378,7 +6378,7 @@
             {
                 "code": "410200",
                 "name": "开封市",
-                "district": [
+                "children": [
                     {
                         "code": "410202",
                         "name": "龙亭区"
@@ -6420,7 +6420,7 @@
             {
                 "code": "410300",
                 "name": "洛阳市",
-                "district": [
+                "children": [
                     {
                         "code": "410302",
                         "name": "老城区"
@@ -6486,7 +6486,7 @@
             {
                 "code": "410400",
                 "name": "平顶山市",
-                "district": [
+                "children": [
                     {
                         "code": "410402",
                         "name": "新华区"
@@ -6532,7 +6532,7 @@
             {
                 "code": "410500",
                 "name": "安阳市",
-                "district": [
+                "children": [
                     {
                         "code": "410502",
                         "name": "文峰区"
@@ -6574,7 +6574,7 @@
             {
                 "code": "410600",
                 "name": "鹤壁市",
-                "district": [
+                "children": [
                     {
                         "code": "410602",
                         "name": "鹤山区"
@@ -6600,7 +6600,7 @@
             {
                 "code": "410700",
                 "name": "新乡市",
-                "district": [
+                "children": [
                     {
                         "code": "410702",
                         "name": "红旗区"
@@ -6654,7 +6654,7 @@
             {
                 "code": "410800",
                 "name": "焦作市",
-                "district": [
+                "children": [
                     {
                         "code": "410802",
                         "name": "解放区"
@@ -6700,7 +6700,7 @@
             {
                 "code": "410900",
                 "name": "濮阳市",
-                "district": [
+                "children": [
                     {
                         "code": "410902",
                         "name": "华龙区"
@@ -6730,7 +6730,7 @@
             {
                 "code": "411000",
                 "name": "许昌市",
-                "district": [
+                "children": [
                     {
                         "code": "411002",
                         "name": "魏都区"
@@ -6760,7 +6760,7 @@
             {
                 "code": "411100",
                 "name": "漯河市",
-                "district": [
+                "children": [
                     {
                         "code": "411102",
                         "name": "源汇区"
@@ -6786,7 +6786,7 @@
             {
                 "code": "411200",
                 "name": "三门峡市",
-                "district": [
+                "children": [
                     {
                         "code": "411202",
                         "name": "湖滨区"
@@ -6816,7 +6816,7 @@
             {
                 "code": "411300",
                 "name": "南阳市",
-                "district": [
+                "children": [
                     {
                         "code": "411302",
                         "name": "宛城区"
@@ -6874,7 +6874,7 @@
             {
                 "code": "411400",
                 "name": "商丘市",
-                "district": [
+                "children": [
                     {
                         "code": "411402",
                         "name": "梁园区"
@@ -6916,7 +6916,7 @@
             {
                 "code": "411500",
                 "name": "信阳市",
-                "district": [
+                "children": [
                     {
                         "code": "411502",
                         "name": "浉河区"
@@ -6962,7 +6962,7 @@
             {
                 "code": "411600",
                 "name": "周口市",
-                "district": [
+                "children": [
                     {
                         "code": "411602",
                         "name": "川汇区"
@@ -7008,7 +7008,7 @@
             {
                 "code": "411700",
                 "name": "驻马店市",
-                "district": [
+                "children": [
                     {
                         "code": "411702",
                         "name": "驿城区"
@@ -7054,18 +7054,18 @@
             {
                 "code": "419001",
                 "name": "济源市",
-                "district": []
+                "children": []
             }
         ]
     },
     {
         "code": "420000",
         "name": "湖北省",
-        "city": [
+        "children": [
             {
                 "code": "420100",
                 "name": "武汉市",
-                "district": [
+                "children": [
                     {
                         "code": "420102",
                         "name": "江岸区"
@@ -7123,7 +7123,7 @@
             {
                 "code": "420200",
                 "name": "黄石市",
-                "district": [
+                "children": [
                     {
                         "code": "420202",
                         "name": "黄石港区"
@@ -7153,7 +7153,7 @@
             {
                 "code": "420300",
                 "name": "十堰市",
-                "district": [
+                "children": [
                     {
                         "code": "420302",
                         "name": "茅箭区"
@@ -7191,7 +7191,7 @@
             {
                 "code": "420500",
                 "name": "宜昌市",
-                "district": [
+                "children": [
                     {
                         "code": "420502",
                         "name": "西陵区"
@@ -7249,7 +7249,7 @@
             {
                 "code": "420600",
                 "name": "襄阳市",
-                "district": [
+                "children": [
                     {
                         "code": "420602",
                         "name": "襄城区"
@@ -7291,7 +7291,7 @@
             {
                 "code": "420700",
                 "name": "鄂州市",
-                "district": [
+                "children": [
                     {
                         "code": "420702",
                         "name": "梁子湖区"
@@ -7309,7 +7309,7 @@
             {
                 "code": "420800",
                 "name": "荆门市",
-                "district": [
+                "children": [
                     {
                         "code": "420802",
                         "name": "东宝区"
@@ -7335,7 +7335,7 @@
             {
                 "code": "420900",
                 "name": "孝感市",
-                "district": [
+                "children": [
                     {
                         "code": "420902",
                         "name": "孝南区"
@@ -7369,7 +7369,7 @@
             {
                 "code": "421000",
                 "name": "荆州市",
-                "district": [
+                "children": [
                     {
                         "code": "421002",
                         "name": "沙市区"
@@ -7407,7 +7407,7 @@
             {
                 "code": "421100",
                 "name": "黄冈市",
-                "district": [
+                "children": [
                     {
                         "code": "421102",
                         "name": "黄州区"
@@ -7453,7 +7453,7 @@
             {
                 "code": "421200",
                 "name": "咸宁市",
-                "district": [
+                "children": [
                     {
                         "code": "421202",
                         "name": "咸安区"
@@ -7483,7 +7483,7 @@
             {
                 "code": "421300",
                 "name": "随州市",
-                "district": [
+                "children": [
                     {
                         "code": "421303",
                         "name": "曾都区"
@@ -7501,7 +7501,7 @@
             {
                 "code": "422800",
                 "name": "恩施土家族苗族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "422801",
                         "name": "恩施市"
@@ -7539,33 +7539,33 @@
             {
                 "code": "429004",
                 "name": "仙桃市",
-                "district": []
+                "children": []
             },
             {
                 "code": "429005",
                 "name": "潜江市",
-                "district": []
+                "children": []
             },
             {
                 "code": "429006",
                 "name": "天门市",
-                "district": []
+                "children": []
             },
             {
                 "code": "429021",
                 "name": "神农架林区",
-                "district": []
+                "children": []
             }
         ]
     },
     {
         "code": "430000",
         "name": "湖南省",
-        "city": [
+        "children": [
             {
                 "code": "430100",
                 "name": "长沙市",
-                "district": [
+                "children": [
                     {
                         "code": "430102",
                         "name": "芙蓉区"
@@ -7607,7 +7607,7 @@
             {
                 "code": "430200",
                 "name": "株洲市",
-                "district": [
+                "children": [
                     {
                         "code": "430202",
                         "name": "荷塘区"
@@ -7649,7 +7649,7 @@
             {
                 "code": "430300",
                 "name": "湘潭市",
-                "district": [
+                "children": [
                     {
                         "code": "430302",
                         "name": "雨湖区"
@@ -7675,7 +7675,7 @@
             {
                 "code": "430400",
                 "name": "衡阳市",
-                "district": [
+                "children": [
                     {
                         "code": "430405",
                         "name": "珠晖区"
@@ -7729,7 +7729,7 @@
             {
                 "code": "430500",
                 "name": "邵阳市",
-                "district": [
+                "children": [
                     {
                         "code": "430502",
                         "name": "双清区"
@@ -7783,7 +7783,7 @@
             {
                 "code": "430600",
                 "name": "岳阳市",
-                "district": [
+                "children": [
                     {
                         "code": "430602",
                         "name": "岳阳楼区"
@@ -7825,7 +7825,7 @@
             {
                 "code": "430700",
                 "name": "常德市",
-                "district": [
+                "children": [
                     {
                         "code": "430702",
                         "name": "武陵区"
@@ -7867,7 +7867,7 @@
             {
                 "code": "430800",
                 "name": "张家界市",
-                "district": [
+                "children": [
                     {
                         "code": "430802",
                         "name": "永定区"
@@ -7889,7 +7889,7 @@
             {
                 "code": "430900",
                 "name": "益阳市",
-                "district": [
+                "children": [
                     {
                         "code": "430902",
                         "name": "资阳区"
@@ -7919,7 +7919,7 @@
             {
                 "code": "431000",
                 "name": "郴州市",
-                "district": [
+                "children": [
                     {
                         "code": "431002",
                         "name": "北湖区"
@@ -7969,7 +7969,7 @@
             {
                 "code": "431100",
                 "name": "永州市",
-                "district": [
+                "children": [
                     {
                         "code": "431102",
                         "name": "零陵区"
@@ -8019,7 +8019,7 @@
             {
                 "code": "431200",
                 "name": "怀化市",
-                "district": [
+                "children": [
                     {
                         "code": "431202",
                         "name": "鹤城区"
@@ -8073,7 +8073,7 @@
             {
                 "code": "431300",
                 "name": "娄底市",
-                "district": [
+                "children": [
                     {
                         "code": "431302",
                         "name": "娄星区"
@@ -8099,7 +8099,7 @@
             {
                 "code": "433100",
                 "name": "湘西土家族苗族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "433101",
                         "name": "吉首市"
@@ -8139,11 +8139,11 @@
     {
         "code": "440000",
         "name": "广东省",
-        "city": [
+        "children": [
             {
                 "code": "440100",
                 "name": "广州市",
-                "district": [
+                "children": [
                     {
                         "code": "440103",
                         "name": "荔湾区"
@@ -8193,7 +8193,7 @@
             {
                 "code": "440200",
                 "name": "韶关市",
-                "district": [
+                "children": [
                     {
                         "code": "440203",
                         "name": "武江区"
@@ -8239,7 +8239,7 @@
             {
                 "code": "440300",
                 "name": "深圳市",
-                "district": [
+                "children": [
                     {
                         "code": "440303",
                         "name": "罗湖区"
@@ -8281,7 +8281,7 @@
             {
                 "code": "440400",
                 "name": "珠海市",
-                "district": [
+                "children": [
                     {
                         "code": "440402",
                         "name": "香洲区"
@@ -8299,7 +8299,7 @@
             {
                 "code": "440500",
                 "name": "汕头市",
-                "district": [
+                "children": [
                     {
                         "code": "440507",
                         "name": "龙湖区"
@@ -8333,7 +8333,7 @@
             {
                 "code": "440600",
                 "name": "佛山市",
-                "district": [
+                "children": [
                     {
                         "code": "440604",
                         "name": "禅城区"
@@ -8359,7 +8359,7 @@
             {
                 "code": "440700",
                 "name": "江门市",
-                "district": [
+                "children": [
                     {
                         "code": "440703",
                         "name": "蓬江区"
@@ -8393,7 +8393,7 @@
             {
                 "code": "440800",
                 "name": "湛江市",
-                "district": [
+                "children": [
                     {
                         "code": "440802",
                         "name": "赤坎区"
@@ -8435,7 +8435,7 @@
             {
                 "code": "440900",
                 "name": "茂名市",
-                "district": [
+                "children": [
                     {
                         "code": "440902",
                         "name": "茂南区"
@@ -8461,7 +8461,7 @@
             {
                 "code": "441200",
                 "name": "肇庆市",
-                "district": [
+                "children": [
                     {
                         "code": "441202",
                         "name": "端州区"
@@ -8499,7 +8499,7 @@
             {
                 "code": "441300",
                 "name": "惠州市",
-                "district": [
+                "children": [
                     {
                         "code": "441302",
                         "name": "惠城区"
@@ -8525,7 +8525,7 @@
             {
                 "code": "441400",
                 "name": "梅州市",
-                "district": [
+                "children": [
                     {
                         "code": "441402",
                         "name": "梅江区"
@@ -8563,7 +8563,7 @@
             {
                 "code": "441500",
                 "name": "汕尾市",
-                "district": [
+                "children": [
                     {
                         "code": "441502",
                         "name": "城区"
@@ -8585,7 +8585,7 @@
             {
                 "code": "441600",
                 "name": "河源市",
-                "district": [
+                "children": [
                     {
                         "code": "441602",
                         "name": "源城区"
@@ -8615,7 +8615,7 @@
             {
                 "code": "441700",
                 "name": "阳江市",
-                "district": [
+                "children": [
                     {
                         "code": "441702",
                         "name": "江城区"
@@ -8637,7 +8637,7 @@
             {
                 "code": "441800",
                 "name": "清远市",
-                "district": [
+                "children": [
                     {
                         "code": "441802",
                         "name": "清城区"
@@ -8675,17 +8675,17 @@
             {
                 "code": "441900",
                 "name": "东莞市",
-                "district": []
+                "children": []
             },
             {
                 "code": "442000",
                 "name": "中山市",
-                "district": []
+                "children": []
             },
             {
                 "code": "445100",
                 "name": "潮州市",
-                "district": [
+                "children": [
                     {
                         "code": "445102",
                         "name": "湘桥区"
@@ -8703,7 +8703,7 @@
             {
                 "code": "445200",
                 "name": "揭阳市",
-                "district": [
+                "children": [
                     {
                         "code": "445202",
                         "name": "榕城区"
@@ -8729,7 +8729,7 @@
             {
                 "code": "445300",
                 "name": "云浮市",
-                "district": [
+                "children": [
                     {
                         "code": "445302",
                         "name": "云城区"
@@ -8757,11 +8757,11 @@
     {
         "code": "450000",
         "name": "广西壮族自治区",
-        "city": [
+        "children": [
             {
                 "code": "450100",
                 "name": "南宁市",
-                "district": [
+                "children": [
                     {
                         "code": "450102",
                         "name": "兴宁区"
@@ -8815,7 +8815,7 @@
             {
                 "code": "450200",
                 "name": "柳州市",
-                "district": [
+                "children": [
                     {
                         "code": "450202",
                         "name": "城中区"
@@ -8861,7 +8861,7 @@
             {
                 "code": "450300",
                 "name": "桂林市",
-                "district": [
+                "children": [
                     {
                         "code": "450302",
                         "name": "秀峰区"
@@ -8935,7 +8935,7 @@
             {
                 "code": "450400",
                 "name": "梧州市",
-                "district": [
+                "children": [
                     {
                         "code": "450403",
                         "name": "万秀区"
@@ -8969,7 +8969,7 @@
             {
                 "code": "450500",
                 "name": "北海市",
-                "district": [
+                "children": [
                     {
                         "code": "450502",
                         "name": "海城区"
@@ -8991,7 +8991,7 @@
             {
                 "code": "450600",
                 "name": "防城港市",
-                "district": [
+                "children": [
                     {
                         "code": "450602",
                         "name": "港口区"
@@ -9013,7 +9013,7 @@
             {
                 "code": "450700",
                 "name": "钦州市",
-                "district": [
+                "children": [
                     {
                         "code": "450702",
                         "name": "钦南区"
@@ -9035,7 +9035,7 @@
             {
                 "code": "450800",
                 "name": "贵港市",
-                "district": [
+                "children": [
                     {
                         "code": "450802",
                         "name": "港北区"
@@ -9061,7 +9061,7 @@
             {
                 "code": "450900",
                 "name": "玉林市",
-                "district": [
+                "children": [
                     {
                         "code": "450902",
                         "name": "玉州区"
@@ -9095,7 +9095,7 @@
             {
                 "code": "451000",
                 "name": "百色市",
-                "district": [
+                "children": [
                     {
                         "code": "451002",
                         "name": "右江区"
@@ -9149,7 +9149,7 @@
             {
                 "code": "451100",
                 "name": "贺州市",
-                "district": [
+                "children": [
                     {
                         "code": "451102",
                         "name": "八步区"
@@ -9175,7 +9175,7 @@
             {
                 "code": "451200",
                 "name": "河池市",
-                "district": [
+                "children": [
                     {
                         "code": "451202",
                         "name": "金城江区"
@@ -9225,7 +9225,7 @@
             {
                 "code": "451300",
                 "name": "来宾市",
-                "district": [
+                "children": [
                     {
                         "code": "451302",
                         "name": "兴宾区"
@@ -9255,7 +9255,7 @@
             {
                 "code": "451400",
                 "name": "崇左市",
-                "district": [
+                "children": [
                     {
                         "code": "451402",
                         "name": "江州区"
@@ -9291,11 +9291,11 @@
     {
         "code": "460000",
         "name": "海南省",
-        "city": [
+        "children": [
             {
                 "code": "460100",
                 "name": "海口市",
-                "district": [
+                "children": [
                     {
                         "code": "460105",
                         "name": "秀英区"
@@ -9317,7 +9317,7 @@
             {
                 "code": "460200",
                 "name": "三亚市",
-                "district": [
+                "children": [
                     {
                         "code": "460202",
                         "name": "海棠区"
@@ -9339,7 +9339,7 @@
             {
                 "code": "460300",
                 "name": "三沙市",
-                "district": [
+                "children": [
                     {
                         "code": "460301",
                         "name": "西沙区"
@@ -9353,289 +9353,289 @@
             {
                 "code": "460400",
                 "name": "儋州市",
-                "district": []
+                "children": []
             },
             {
                 "code": "469001",
                 "name": "五指山市",
-                "district": []
+                "children": []
             },
             {
                 "code": "469002",
                 "name": "琼海市",
-                "district": []
+                "children": []
             },
             {
                 "code": "469005",
                 "name": "文昌市",
-                "district": []
+                "children": []
             },
             {
                 "code": "469006",
                 "name": "万宁市",
-                "district": []
+                "children": []
             },
             {
                 "code": "469007",
                 "name": "东方市",
-                "district": []
+                "children": []
             },
             {
                 "code": "469021",
                 "name": "定安县",
-                "district": []
+                "children": []
             },
             {
                 "code": "469022",
                 "name": "屯昌县",
-                "district": []
+                "children": []
             },
             {
                 "code": "469023",
                 "name": "澄迈县",
-                "district": []
+                "children": []
             },
             {
                 "code": "469024",
                 "name": "临高县",
-                "district": []
+                "children": []
             },
             {
                 "code": "469025",
                 "name": "白沙黎族自治县",
-                "district": []
+                "children": []
             },
             {
                 "code": "469026",
                 "name": "昌江黎族自治县",
-                "district": []
+                "children": []
             },
             {
                 "code": "469027",
                 "name": "乐东黎族自治县",
-                "district": []
+                "children": []
             },
             {
                 "code": "469028",
                 "name": "陵水黎族自治县",
-                "district": []
+                "children": []
             },
             {
                 "code": "469029",
                 "name": "保亭黎族苗族自治县",
-                "district": []
+                "children": []
             },
             {
                 "code": "469030",
                 "name": "琼中黎族苗族自治县",
-                "district": []
+                "children": []
             }
         ]
     },
     {
         "code": "500000",
         "name": "重庆市",
-        "city": [
+        "children": [
             {
                 "code": "500101",
                 "name": "万州区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500102",
                 "name": "涪陵区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500103",
                 "name": "渝中区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500104",
                 "name": "大渡口区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500105",
                 "name": "江北区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500106",
                 "name": "沙坪坝区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500107",
                 "name": "九龙坡区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500108",
                 "name": "南岸区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500109",
                 "name": "北碚区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500110",
                 "name": "綦江区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500111",
                 "name": "大足区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500112",
                 "name": "渝北区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500113",
                 "name": "巴南区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500114",
                 "name": "黔江区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500115",
                 "name": "长寿区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500116",
                 "name": "江津区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500117",
                 "name": "合川区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500118",
                 "name": "永川区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500119",
                 "name": "南川区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500120",
                 "name": "璧山区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500151",
                 "name": "铜梁区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500152",
                 "name": "潼南区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500153",
                 "name": "荣昌区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500154",
                 "name": "开州区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500155",
                 "name": "梁平区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500156",
                 "name": "武隆区",
-                "district": []
+                "children": []
             },
             {
                 "code": "500229",
                 "name": "城口县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500230",
                 "name": "丰都县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500231",
                 "name": "垫江县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500233",
                 "name": "忠县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500235",
                 "name": "云阳县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500236",
                 "name": "奉节县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500237",
                 "name": "巫山县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500238",
                 "name": "巫溪县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500240",
                 "name": "石柱土家族自治县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500241",
                 "name": "秀山土家族苗族自治县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500242",
                 "name": "酉阳土家族苗族自治县",
-                "district": []
+                "children": []
             },
             {
                 "code": "500243",
                 "name": "彭水苗族土家族自治县",
-                "district": []
+                "children": []
             }
         ]
     },
     {
         "code": "510000",
         "name": "四川省",
-        "city": [
+        "children": [
             {
                 "code": "510100",
                 "name": "成都市",
-                "district": [
+                "children": [
                     {
                         "code": "510104",
                         "name": "锦江区"
@@ -9721,7 +9721,7 @@
             {
                 "code": "510300",
                 "name": "自贡市",
-                "district": [
+                "children": [
                     {
                         "code": "510302",
                         "name": "自流井区"
@@ -9751,7 +9751,7 @@
             {
                 "code": "510400",
                 "name": "攀枝花市",
-                "district": [
+                "children": [
                     {
                         "code": "510402",
                         "name": "东区"
@@ -9777,7 +9777,7 @@
             {
                 "code": "510500",
                 "name": "泸州市",
-                "district": [
+                "children": [
                     {
                         "code": "510502",
                         "name": "江阳区"
@@ -9811,7 +9811,7 @@
             {
                 "code": "510600",
                 "name": "德阳市",
-                "district": [
+                "children": [
                     {
                         "code": "510603",
                         "name": "旌阳区"
@@ -9841,7 +9841,7 @@
             {
                 "code": "510700",
                 "name": "绵阳市",
-                "district": [
+                "children": [
                     {
                         "code": "510703",
                         "name": "涪城区"
@@ -9883,7 +9883,7 @@
             {
                 "code": "510800",
                 "name": "广元市",
-                "district": [
+                "children": [
                     {
                         "code": "510802",
                         "name": "利州区"
@@ -9917,7 +9917,7 @@
             {
                 "code": "510900",
                 "name": "遂宁市",
-                "district": [
+                "children": [
                     {
                         "code": "510903",
                         "name": "船山区"
@@ -9943,7 +9943,7 @@
             {
                 "code": "511000",
                 "name": "内江市",
-                "district": [
+                "children": [
                     {
                         "code": "511002",
                         "name": "市中区"
@@ -9969,7 +9969,7 @@
             {
                 "code": "511100",
                 "name": "乐山市",
-                "district": [
+                "children": [
                     {
                         "code": "511102",
                         "name": "市中区"
@@ -10019,7 +10019,7 @@
             {
                 "code": "511300",
                 "name": "南充市",
-                "district": [
+                "children": [
                     {
                         "code": "511302",
                         "name": "顺庆区"
@@ -10061,7 +10061,7 @@
             {
                 "code": "511400",
                 "name": "眉山市",
-                "district": [
+                "children": [
                     {
                         "code": "511402",
                         "name": "东坡区"
@@ -10091,7 +10091,7 @@
             {
                 "code": "511500",
                 "name": "宜宾市",
-                "district": [
+                "children": [
                     {
                         "code": "511502",
                         "name": "翠屏区"
@@ -10137,7 +10137,7 @@
             {
                 "code": "511600",
                 "name": "广安市",
-                "district": [
+                "children": [
                     {
                         "code": "511602",
                         "name": "广安区"
@@ -10167,7 +10167,7 @@
             {
                 "code": "511700",
                 "name": "达州市",
-                "district": [
+                "children": [
                     {
                         "code": "511702",
                         "name": "通川区"
@@ -10201,7 +10201,7 @@
             {
                 "code": "511800",
                 "name": "雅安市",
-                "district": [
+                "children": [
                     {
                         "code": "511802",
                         "name": "雨城区"
@@ -10239,7 +10239,7 @@
             {
                 "code": "511900",
                 "name": "巴中市",
-                "district": [
+                "children": [
                     {
                         "code": "511902",
                         "name": "巴州区"
@@ -10265,7 +10265,7 @@
             {
                 "code": "512000",
                 "name": "资阳市",
-                "district": [
+                "children": [
                     {
                         "code": "512002",
                         "name": "雁江区"
@@ -10283,7 +10283,7 @@
             {
                 "code": "513200",
                 "name": "阿坝藏族羌族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "513201",
                         "name": "马尔康市"
@@ -10341,7 +10341,7 @@
             {
                 "code": "513300",
                 "name": "甘孜藏族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "513301",
                         "name": "康定市"
@@ -10419,7 +10419,7 @@
             {
                 "code": "513400",
                 "name": "凉山彝族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "513401",
                         "name": "西昌市"
@@ -10495,11 +10495,11 @@
     {
         "code": "520000",
         "name": "贵州省",
-        "city": [
+        "children": [
             {
                 "code": "520100",
                 "name": "贵阳市",
-                "district": [
+                "children": [
                     {
                         "code": "520102",
                         "name": "南明区"
@@ -10545,7 +10545,7 @@
             {
                 "code": "520200",
                 "name": "六盘水市",
-                "district": [
+                "children": [
                     {
                         "code": "520201",
                         "name": "钟山区"
@@ -10567,7 +10567,7 @@
             {
                 "code": "520300",
                 "name": "遵义市",
-                "district": [
+                "children": [
                     {
                         "code": "520302",
                         "name": "红花岗区"
@@ -10629,7 +10629,7 @@
             {
                 "code": "520400",
                 "name": "安顺市",
-                "district": [
+                "children": [
                     {
                         "code": "520402",
                         "name": "西秀区"
@@ -10659,7 +10659,7 @@
             {
                 "code": "520500",
                 "name": "毕节市",
-                "district": [
+                "children": [
                     {
                         "code": "520502",
                         "name": "七星关区"
@@ -10697,7 +10697,7 @@
             {
                 "code": "520600",
                 "name": "铜仁市",
-                "district": [
+                "children": [
                     {
                         "code": "520602",
                         "name": "碧江区"
@@ -10743,7 +10743,7 @@
             {
                 "code": "522300",
                 "name": "黔西南布依族苗族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "522301",
                         "name": "兴义市"
@@ -10781,7 +10781,7 @@
             {
                 "code": "522600",
                 "name": "黔东南苗族侗族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "522601",
                         "name": "凯里市"
@@ -10851,7 +10851,7 @@
             {
                 "code": "522700",
                 "name": "黔南布依族苗族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "522701",
                         "name": "都匀市"
@@ -10907,11 +10907,11 @@
     {
         "code": "530000",
         "name": "云南省",
-        "city": [
+        "children": [
             {
                 "code": "530100",
                 "name": "昆明市",
-                "district": [
+                "children": [
                     {
                         "code": "530102",
                         "name": "五华区"
@@ -10973,7 +10973,7 @@
             {
                 "code": "530300",
                 "name": "曲靖市",
-                "district": [
+                "children": [
                     {
                         "code": "530302",
                         "name": "麒麟区"
@@ -11015,7 +11015,7 @@
             {
                 "code": "530400",
                 "name": "玉溪市",
-                "district": [
+                "children": [
                     {
                         "code": "530402",
                         "name": "红塔区"
@@ -11057,7 +11057,7 @@
             {
                 "code": "530500",
                 "name": "保山市",
-                "district": [
+                "children": [
                     {
                         "code": "530502",
                         "name": "隆阳区"
@@ -11083,7 +11083,7 @@
             {
                 "code": "530600",
                 "name": "昭通市",
-                "district": [
+                "children": [
                     {
                         "code": "530602",
                         "name": "昭阳区"
@@ -11133,7 +11133,7 @@
             {
                 "code": "530700",
                 "name": "丽江市",
-                "district": [
+                "children": [
                     {
                         "code": "530702",
                         "name": "古城区"
@@ -11159,7 +11159,7 @@
             {
                 "code": "530800",
                 "name": "普洱市",
-                "district": [
+                "children": [
                     {
                         "code": "530802",
                         "name": "思茅区"
@@ -11205,7 +11205,7 @@
             {
                 "code": "530900",
                 "name": "临沧市",
-                "district": [
+                "children": [
                     {
                         "code": "530902",
                         "name": "临翔区"
@@ -11243,7 +11243,7 @@
             {
                 "code": "532300",
                 "name": "楚雄彝族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "532301",
                         "name": "楚雄市"
@@ -11289,7 +11289,7 @@
             {
                 "code": "532500",
                 "name": "红河哈尼族彝族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "532501",
                         "name": "个旧市"
@@ -11347,7 +11347,7 @@
             {
                 "code": "532600",
                 "name": "文山壮族苗族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "532601",
                         "name": "文山市"
@@ -11385,7 +11385,7 @@
             {
                 "code": "532800",
                 "name": "西双版纳傣族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "532801",
                         "name": "景洪市"
@@ -11403,7 +11403,7 @@
             {
                 "code": "532900",
                 "name": "大理白族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "532901",
                         "name": "大理市"
@@ -11457,7 +11457,7 @@
             {
                 "code": "533100",
                 "name": "德宏傣族景颇族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "533102",
                         "name": "瑞丽市"
@@ -11483,7 +11483,7 @@
             {
                 "code": "533300",
                 "name": "怒江傈僳族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "533301",
                         "name": "泸水市"
@@ -11505,7 +11505,7 @@
             {
                 "code": "533400",
                 "name": "迪庆藏族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "533401",
                         "name": "香格里拉市"
@@ -11525,11 +11525,11 @@
     {
         "code": "540000",
         "name": "西藏自治区",
-        "city": [
+        "children": [
             {
                 "code": "540100",
                 "name": "拉萨市",
-                "district": [
+                "children": [
                     {
                         "code": "540102",
                         "name": "城关区"
@@ -11567,7 +11567,7 @@
             {
                 "code": "540200",
                 "name": "日喀则市",
-                "district": [
+                "children": [
                     {
                         "code": "540202",
                         "name": "桑珠孜区"
@@ -11645,7 +11645,7 @@
             {
                 "code": "540300",
                 "name": "昌都市",
-                "district": [
+                "children": [
                     {
                         "code": "540302",
                         "name": "卡若区"
@@ -11695,7 +11695,7 @@
             {
                 "code": "540400",
                 "name": "林芝市",
-                "district": [
+                "children": [
                     {
                         "code": "540402",
                         "name": "巴宜区"
@@ -11729,7 +11729,7 @@
             {
                 "code": "540500",
                 "name": "山南市",
-                "district": [
+                "children": [
                     {
                         "code": "540502",
                         "name": "乃东区"
@@ -11783,7 +11783,7 @@
             {
                 "code": "540600",
                 "name": "那曲市",
-                "district": [
+                "children": [
                     {
                         "code": "540602",
                         "name": "色尼区"
@@ -11833,7 +11833,7 @@
             {
                 "code": "542500",
                 "name": "阿里地区",
-                "district": [
+                "children": [
                     {
                         "code": "542521",
                         "name": "普兰县"
@@ -11869,11 +11869,11 @@
     {
         "code": "610000",
         "name": "陕西省",
-        "city": [
+        "children": [
             {
                 "code": "610100",
                 "name": "西安市",
-                "district": [
+                "children": [
                     {
                         "code": "610102",
                         "name": "新城区"
@@ -11931,7 +11931,7 @@
             {
                 "code": "610200",
                 "name": "铜川市",
-                "district": [
+                "children": [
                     {
                         "code": "610202",
                         "name": "王益区"
@@ -11953,7 +11953,7 @@
             {
                 "code": "610300",
                 "name": "宝鸡市",
-                "district": [
+                "children": [
                     {
                         "code": "610302",
                         "name": "渭滨区"
@@ -12007,7 +12007,7 @@
             {
                 "code": "610400",
                 "name": "咸阳市",
-                "district": [
+                "children": [
                     {
                         "code": "610402",
                         "name": "秦都区"
@@ -12069,7 +12069,7 @@
             {
                 "code": "610500",
                 "name": "渭南市",
-                "district": [
+                "children": [
                     {
                         "code": "610502",
                         "name": "临渭区"
@@ -12119,7 +12119,7 @@
             {
                 "code": "610600",
                 "name": "延安市",
-                "district": [
+                "children": [
                     {
                         "code": "610602",
                         "name": "宝塔区"
@@ -12177,7 +12177,7 @@
             {
                 "code": "610700",
                 "name": "汉中市",
-                "district": [
+                "children": [
                     {
                         "code": "610702",
                         "name": "汉台区"
@@ -12227,7 +12227,7 @@
             {
                 "code": "610800",
                 "name": "榆林市",
-                "district": [
+                "children": [
                     {
                         "code": "610802",
                         "name": "榆阳区"
@@ -12281,7 +12281,7 @@
             {
                 "code": "610900",
                 "name": "安康市",
-                "district": [
+                "children": [
                     {
                         "code": "610902",
                         "name": "汉滨区"
@@ -12327,7 +12327,7 @@
             {
                 "code": "611000",
                 "name": "商洛市",
-                "district": [
+                "children": [
                     {
                         "code": "611002",
                         "name": "商州区"
@@ -12363,11 +12363,11 @@
     {
         "code": "620000",
         "name": "甘肃省",
-        "city": [
+        "children": [
             {
                 "code": "620100",
                 "name": "兰州市",
-                "district": [
+                "children": [
                     {
                         "code": "620102",
                         "name": "城关区"
@@ -12405,12 +12405,12 @@
             {
                 "code": "620200",
                 "name": "嘉峪关市",
-                "district": []
+                "children": []
             },
             {
                 "code": "620300",
                 "name": "金昌市",
-                "district": [
+                "children": [
                     {
                         "code": "620302",
                         "name": "金川区"
@@ -12424,7 +12424,7 @@
             {
                 "code": "620400",
                 "name": "白银市",
-                "district": [
+                "children": [
                     {
                         "code": "620402",
                         "name": "白银区"
@@ -12450,7 +12450,7 @@
             {
                 "code": "620500",
                 "name": "天水市",
-                "district": [
+                "children": [
                     {
                         "code": "620502",
                         "name": "秦州区"
@@ -12484,7 +12484,7 @@
             {
                 "code": "620600",
                 "name": "武威市",
-                "district": [
+                "children": [
                     {
                         "code": "620602",
                         "name": "凉州区"
@@ -12506,7 +12506,7 @@
             {
                 "code": "620700",
                 "name": "张掖市",
-                "district": [
+                "children": [
                     {
                         "code": "620702",
                         "name": "甘州区"
@@ -12536,7 +12536,7 @@
             {
                 "code": "620800",
                 "name": "平凉市",
-                "district": [
+                "children": [
                     {
                         "code": "620802",
                         "name": "崆峒区"
@@ -12570,7 +12570,7 @@
             {
                 "code": "620900",
                 "name": "酒泉市",
-                "district": [
+                "children": [
                     {
                         "code": "620902",
                         "name": "肃州区"
@@ -12604,7 +12604,7 @@
             {
                 "code": "621000",
                 "name": "庆阳市",
-                "district": [
+                "children": [
                     {
                         "code": "621002",
                         "name": "西峰区"
@@ -12642,7 +12642,7 @@
             {
                 "code": "621100",
                 "name": "定西市",
-                "district": [
+                "children": [
                     {
                         "code": "621102",
                         "name": "安定区"
@@ -12676,7 +12676,7 @@
             {
                 "code": "621200",
                 "name": "陇南市",
-                "district": [
+                "children": [
                     {
                         "code": "621202",
                         "name": "武都区"
@@ -12718,7 +12718,7 @@
             {
                 "code": "622900",
                 "name": "临夏回族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "622901",
                         "name": "临夏市"
@@ -12756,7 +12756,7 @@
             {
                 "code": "623000",
                 "name": "甘南藏族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "623001",
                         "name": "合作市"
@@ -12796,11 +12796,11 @@
     {
         "code": "630000",
         "name": "青海省",
-        "city": [
+        "children": [
             {
                 "code": "630100",
                 "name": "西宁市",
-                "district": [
+                "children": [
                     {
                         "code": "630102",
                         "name": "城东区"
@@ -12834,7 +12834,7 @@
             {
                 "code": "630200",
                 "name": "海东市",
-                "district": [
+                "children": [
                     {
                         "code": "630202",
                         "name": "乐都区"
@@ -12864,7 +12864,7 @@
             {
                 "code": "632200",
                 "name": "海北藏族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "632221",
                         "name": "门源回族自治县"
@@ -12886,7 +12886,7 @@
             {
                 "code": "632300",
                 "name": "黄南藏族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "632301",
                         "name": "同仁市"
@@ -12908,7 +12908,7 @@
             {
                 "code": "632500",
                 "name": "海南藏族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "632521",
                         "name": "共和县"
@@ -12934,7 +12934,7 @@
             {
                 "code": "632600",
                 "name": "果洛藏族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "632621",
                         "name": "玛沁县"
@@ -12964,7 +12964,7 @@
             {
                 "code": "632700",
                 "name": "玉树藏族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "632701",
                         "name": "玉树市"
@@ -12994,7 +12994,7 @@
             {
                 "code": "632800",
                 "name": "海西蒙古族藏族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "632801",
                         "name": "格尔木市"
@@ -13026,11 +13026,11 @@
     {
         "code": "640000",
         "name": "宁夏回族自治区",
-        "city": [
+        "children": [
             {
                 "code": "640100",
                 "name": "银川市",
-                "district": [
+                "children": [
                     {
                         "code": "640104",
                         "name": "兴庆区"
@@ -13060,7 +13060,7 @@
             {
                 "code": "640200",
                 "name": "石嘴山市",
-                "district": [
+                "children": [
                     {
                         "code": "640202",
                         "name": "大武口区"
@@ -13078,7 +13078,7 @@
             {
                 "code": "640300",
                 "name": "吴忠市",
-                "district": [
+                "children": [
                     {
                         "code": "640302",
                         "name": "利通区"
@@ -13104,7 +13104,7 @@
             {
                 "code": "640400",
                 "name": "固原市",
-                "district": [
+                "children": [
                     {
                         "code": "640402",
                         "name": "原州区"
@@ -13130,7 +13130,7 @@
             {
                 "code": "640500",
                 "name": "中卫市",
-                "district": [
+                "children": [
                     {
                         "code": "640502",
                         "name": "沙坡头区"
@@ -13150,11 +13150,11 @@
     {
         "code": "650000",
         "name": "新疆维吾尔自治区",
-        "city": [
+        "children": [
             {
                 "code": "650100",
                 "name": "乌鲁木齐市",
-                "district": [
+                "children": [
                     {
                         "code": "650102",
                         "name": "天山区"
@@ -13192,7 +13192,7 @@
             {
                 "code": "650200",
                 "name": "克拉玛依市",
-                "district": [
+                "children": [
                     {
                         "code": "650202",
                         "name": "独山子区"
@@ -13214,7 +13214,7 @@
             {
                 "code": "650400",
                 "name": "吐鲁番市",
-                "district": [
+                "children": [
                     {
                         "code": "650402",
                         "name": "高昌区"
@@ -13232,7 +13232,7 @@
             {
                 "code": "650500",
                 "name": "哈密市",
-                "district": [
+                "children": [
                     {
                         "code": "650502",
                         "name": "伊州区"
@@ -13250,7 +13250,7 @@
             {
                 "code": "652300",
                 "name": "昌吉回族自治州",
-                "district": [
+                "children": [
                     {
                         "code": "652301",
                         "name": "昌吉市"
@@ -13284,7 +13284,7 @@
             {
                 "code": "652700",
                 "name": "博尔塔拉蒙古自治州",
-                "district": [
+                "children": [
                     {
                         "code": "652701",
                         "name": "博乐市"
@@ -13306,7 +13306,7 @@
             {
                 "code": "652800",
                 "name": "巴音郭楞蒙古自治州",
-                "district": [
+                "children": [
                     {
                         "code": "652801",
                         "name": "库尔勒市"
@@ -13348,7 +13348,7 @@
             {
                 "code": "652900",
                 "name": "阿克苏地区",
-                "district": [
+                "children": [
                     {
                         "code": "652901",
                         "name": "阿克苏市"
@@ -13390,7 +13390,7 @@
             {
                 "code": "653000",
                 "name": "克孜勒苏柯尔克孜自治州",
-                "district": [
+                "children": [
                     {
                         "code": "653001",
                         "name": "阿图什市"
@@ -13412,7 +13412,7 @@
             {
                 "code": "653100",
                 "name": "喀什地区",
-                "district": [
+                "children": [
                     {
                         "code": "653101",
                         "name": "喀什市"
@@ -13466,7 +13466,7 @@
             {
                 "code": "653200",
                 "name": "和田地区",
-                "district": [
+                "children": [
                     {
                         "code": "653201",
                         "name": "和田市"
@@ -13504,7 +13504,7 @@
             {
                 "code": "654000",
                 "name": "伊犁哈萨克自治州",
-                "district": [
+                "children": [
                     {
                         "code": "654002",
                         "name": "伊宁市"
@@ -13554,7 +13554,7 @@
             {
                 "code": "654200",
                 "name": "塔城地区",
-                "district": [
+                "children": [
                     {
                         "code": "654201",
                         "name": "塔城市"
@@ -13588,7 +13588,7 @@
             {
                 "code": "654300",
                 "name": "阿勒泰地区",
-                "district": [
+                "children": [
                     {
                         "code": "654301",
                         "name": "阿勒泰市"
@@ -13622,68 +13622,68 @@
             {
                 "code": "659001",
                 "name": "石河子市",
-                "district": []
+                "children": []
             },
             {
                 "code": "659002",
                 "name": "阿拉尔市",
-                "district": []
+                "children": []
             },
             {
                 "code": "659003",
                 "name": "图木舒克市",
-                "district": []
+                "children": []
             },
             {
                 "code": "659004",
                 "name": "五家渠市",
-                "district": []
+                "children": []
             },
             {
                 "code": "659005",
                 "name": "北屯市",
-                "district": []
+                "children": []
             },
             {
                 "code": "659006",
                 "name": "铁门关市",
-                "district": []
+                "children": []
             },
             {
                 "code": "659007",
                 "name": "双河市",
-                "district": []
+                "children": []
             },
             {
                 "code": "659008",
                 "name": "可克达拉市",
-                "district": []
+                "children": []
             },
             {
                 "code": "659009",
                 "name": "昆玉市",
-                "district": []
+                "children": []
             },
             {
                 "code": "659010",
                 "name": "胡杨河市",
-                "district": []
+                "children": []
             }
         ]
     },
     {
         "code": "710000",
         "name": "台湾省",
-        "city": []
+        "children": []
     },
     {
         "code": "810000",
         "name": "香港特别行政区",
-        "city": []
+        "children": []
     },
     {
         "code": "820000",
         "name": "澳门特别行政区",
-        "city": []
+        "children": []
     }
 ]
