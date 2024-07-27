@@ -8,7 +8,4 @@ cd /d %~dp0
 @REM setx /m CLASSPATH ".;%%JAVA_HOME%%\lib\dt.jar;%%JAVA_HOME%%\lib\tools.jar" 1>NUL 2>NUL
 @REM setx /m Path "%Path%;%%JAVA_HOME%%\bin;%%JAVA_HOME%%\jre\bin" 1>NUL 2>NUL
 
-@REM setx /m MAVEN_HOME "D:\Code\Maven" 1>NUL 2>NUL
-@REM setx /m Path "%Path%;%%MAVEN_HOME%%\bin" 1>NUL 2>NUL
-
 @REM setx /m Path "%Path%;D:\Code\Git\usr\bin" 1>NUL 2>NUL
