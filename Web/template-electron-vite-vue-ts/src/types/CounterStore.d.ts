@@ -9,8 +9,8 @@ declare interface CounterSetupStore {
     asyncDecrement(): Promise<void>;
 }
 declare type CounterStore = Store<
-    "counter",
-    _UnwrapAll<Pick<CounterSetupStore, "numRef">>,
-    Pick<CounterSetupStore, "doubleNumRef">,
-    Pick<CounterSetupStore, "increment" | "decrement" | "asyncIncrement" | "asyncDecrement">
+    'counter',
+    _UnwrapAll<Pick<CounterSetupStore, 'numRef'>>,
+    Pick<CounterSetupStore, 'doubleNumRef'>,
+    Pick<CounterSetupStore, 'increment' | 'decrement' | 'asyncIncrement' | 'asyncDecrement'>
 >;
