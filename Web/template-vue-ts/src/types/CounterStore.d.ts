@@ -12,4 +12,5 @@ declare type CounterStore = Store<
     "counter",
     _UnwrapAll<Pick<CounterSetupStore, "numRef">>,
     Pick<CounterSetupStore, "doubleNumRef">,
-    Pick<CounterSetupStore, "increment" | "decrement" | "asyncIncrement" | "asyncDecrement">>;
+    Pick<CounterSetupStore, "increment" | "decrement" | "asyncIncrement" | "asyncDecrement">
+>;
