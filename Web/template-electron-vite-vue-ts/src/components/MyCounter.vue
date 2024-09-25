@@ -20,6 +20,7 @@
 
 <script setup lang="ts">
 import useCounterStore from '@/store/modules/counter';
+import type { CounterStore } from '@/types/CounterStore';
 const counterStore: CounterStore = useCounterStore();
 </script>
 

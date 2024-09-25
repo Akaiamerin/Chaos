@@ -3,7 +3,7 @@ import { defineStore } from 'pinia';
 export default defineStore('counter', () => {
     const numRef = ref(0);
     const doubleNumRef = computed(() => {
-        return numRef.value * 2;
+        return 2 * numRef.value;
     });
     function increment() {
         numRef.value++;
