@@ -1,0 +1,28 @@
+{
+    "vue": {
+        "prefix": "vue",
+        "body": [
+            "<template>",
+            "    <div class=\"${TM_FILENAME_BASE/([A-Z][a-z]*)/${1:/downcase}-/g}container\">$0</div>",
+            "</template>",
+            "",
+            "<script setup></script>",
+            "",
+            "<style scoped></style>",
+        ],
+        "description": "Vue single file component"
+    },
+    "vue:ts": {
+        "prefix": "vue:ts",
+        "body": [
+            "<template>",
+            "    <div class=\"${TM_FILENAME_BASE/([A-Z][a-z]*)/${1:/downcase}-/g}container\">$0</div>",
+            "</template>",
+            "",
+            "<script setup lang=\"ts\"></script>",
+            "",
+            "<style scoped></style>",
+        ],
+        "description": "Vue single file component + TypeScript"
+    }
+}

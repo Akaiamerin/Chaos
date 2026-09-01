@@ -1,6 +1,6 @@
 import type { Ref, ComputedRef } from 'vue';
 import type { Store } from 'pinia';
-declare interface CounterSetupStore {
+export declare interface CounterSetupStore {
     numRef: Ref<number>;
     doubleNumRef: ComputedRef<number>;
     increment: () => void;
@@ -8,7 +8,7 @@ declare interface CounterSetupStore {
     asyncIncrement: () => Promise<void>;
     asyncDecrement: () => Promise<void>;
 }
-declare type CounterStore = Store<
+export declare type CounterStore = Store<
     'counter',
     Pick<CounterSetupStore, 'numRef'>,
     Pick<CounterSetupStore, 'doubleNumRef'>,
